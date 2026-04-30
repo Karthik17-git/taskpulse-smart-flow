@@ -1,4 +1,4 @@
-# Welcome to your  project
+# Welcome to the  project
 
 # TaskPulse – Smart Task Manager
 
