@@ -24,9 +24,7 @@ Password: @#$%^&&*()
 - Lovable (App builder)
 
 ##Deployment Note:
-The application is deployed using Lovable platform and is fully functional.
-Railway deployment was attempted; however, due to frontend-only architecture,
-the app is hosted using a production-ready builder platform.
+Deployment: The application is live and fully functional at the provided URL.
 
 ## How to Use
 1. Open the live URL
