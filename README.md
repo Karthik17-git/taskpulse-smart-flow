@@ -21,7 +21,6 @@ Password: @#$%^&&*()
 ## Tech Stack
 - React (TypeScript)
 - Supabase (Backend/Auth/DB)
-- Lovable (App builder)
 
 ##Deployment Note:
 Deployment: The application is live and fully functional at the provided URL.
